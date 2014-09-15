@@ -7,7 +7,7 @@ Changes file for Date-Holidays
   https://github.com/jonasbn/Date-Holidays/issues/7
 
   This is bug in the tests suite generating reports on failures from
-  CPAN testsers.
+  CPAN testers.
 
 
 0.21 2014.08.30 bug fix/feature release, update recommended
